@@ -1,2 +1,0 @@
-# ME
-Shop List App
